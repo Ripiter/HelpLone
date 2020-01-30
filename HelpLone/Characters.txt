@@ -1,0 +1,13 @@
+Wizzard		Die Fight Heal Teleport ThrowNova ThrowMagicMisile
+Barbarian	Bash Cleave Die Fight Heal Slash
+Knight		Bash Cleave Die Fight Heal ShieldGlare Slash
+Witch		Die Fight Heal RaiseShield ShielGlare Teleport
+
+ICharacter			 - All 
+IMeeleFight			 - Barbarian Knight
+ISlash 				 - Barbarian Knight
+ITeleport 			 - Wizzard Witch
+IThrowNova 			 - Wizzard
+IThrowMagicalMissile - Wizzard
+IShieldGlare		 - Knight
+IRaiseShield		 - Witch
